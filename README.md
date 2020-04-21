@@ -12,6 +12,9 @@ The 43rd SLAC Summer Institute, Aug. 2015
 Gordan Research Seminar in Particle Physics, Jun. 2017
 Towards a Precise Determination of the Reactor Antineutrino Flux at Daya Bay
 
+Gordan Research Conference in Particle Physics, Jun. 2017
+(Poster) Towards a Precise Determination of the Reactor Antineutrino Flux at Daya Bay
+
 13th Rencontres du Vietnam: Neutrino, Jul. 2017
 Recent Results from Daya Bay
 
