@@ -32,3 +32,20 @@ Latest Results of the Antineutrino Flux and Spectrum from Daya Bay
 
 APS April Meeting 2020, Apr 17-21 at Washington
 Recent Progress on WireCell 3D Reconstruction in MicroBooNE
+
+Particle Physics Seminar at BNL, Sept 10, 2020
+First results on ProtoDUNE single phase LArTPC performance
+https://indico.bnl.gov/event/9155/
+
+XIX International Workshop on Neutrino Telescopes, Feb 18-26, 2021
+(Flash talk) Extraction of the Inclusive Muon Neutrino Charged Current Cross Section at MicroBooNE
+
+APS April Meeting, Apr 17-20, 2021 (coauthor: Xiangpan Ji)
+Model Validation in Extraction of the Inclusive Muon Neutrino Charged Current Cross Section at MicroBooNE
+
+Weak Interactions and Neutrinos 2021
+(Poster) Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
+
+APS DPF 2021 (tentative)
+
+NuFact 2021 (tentative)
