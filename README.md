@@ -47,9 +47,9 @@ Weak Interactions and Neutrinos 2021
 (Poster) Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
 
 APS DPF 2021, Jun 12-14, 2021
-Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
 
 54th Annual Fermilab Users Meering, 2021
-Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
 
 NuFact 2021 (tentative)
