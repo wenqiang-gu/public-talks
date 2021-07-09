@@ -46,6 +46,10 @@ Model Validation in Extraction of the Inclusive Muon Neutrino Charged Current Cr
 Weak Interactions and Neutrinos 2021
 (Poster) Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
 
-APS DPF 2021 (tentative)
+APS DPF 2021, Jun 12-14, 2021
+Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
+
+54th Annual Fermilab Users Meering, 2021
+Model Validation and Cross Section Extraction of Inclusive $\nu_\mu$ CC
 
 NuFact 2021 (tentative)
