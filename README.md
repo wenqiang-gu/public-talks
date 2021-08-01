@@ -52,4 +52,8 @@ Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Se
 54th Annual Fermilab Users Meering, 2021
 Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
 
-NuFact 2021 (tentative)
+New Perspectives 2021 (coauthor: London Cooper-Troendle)
+Extraction of the Inclusive Muon Neutrino Charged Current Cross Section at MicroBooNE using Wiener SVD Unfolding
+
+NuFact 2021
+(Poster) Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
