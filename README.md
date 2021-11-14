@@ -57,3 +57,10 @@ Extraction of the Inclusive Muon Neutrino Charged Current Cross Section at Micro
 
 NuFact 2021
 (Poster) Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
+
+Brookhaven Forum 2021
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
+
+30th International Symposium on Lepton Photon Interactions at High Energies (9-14 Jan 2022)
+Recent Neutrino Cross-Section Results from MicroBooNE
+
