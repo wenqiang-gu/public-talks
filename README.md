@@ -61,6 +61,13 @@ NuFact 2021
 Brookhaven Forum 2021
 Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Section at MicroBooNE
 
+Particle Physics Seminar at Stony Brook University, Nov 22, 2021
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Sections at MicroBooNE
+
+Particle Physics Seminar at BNL, Dec 2, 2021
+First Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Sections on Argon with the MicroBooNE Detector
+https://indico.bnl.gov/event/13667/
+
 30th International Symposium on Lepton Photon Interactions at High Energies (9-14 Jan 2022)
 Recent Neutrino Cross-Section Results from MicroBooNE
 
