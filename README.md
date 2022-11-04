@@ -71,3 +71,8 @@ https://indico.bnl.gov/event/13667/
 30th International Symposium on Lepton Photon Interactions at High Energies (9-14 Jan 2022)
 Recent Neutrino Cross-Section Results from MicroBooNE
 
+Seminar at MSU, Feb 8, 2022
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Sections at MicroBooNE
+
+Wine and Cheese Seminar at Fermilab, Jul 17, 2022
+Measurement of Energy-dependent Inclusive Muon Neutrino Charged-Current Cross Sections at MicroBooNE
